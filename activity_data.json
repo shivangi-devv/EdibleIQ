@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Rice",
+        "quantity": 1.0,
+        "unit": "Kg",
+        "category": "Grains",
+        "activity": "Used",
+        "date": "2026-11-11"
+    },
+    {
+        "name": "milk",
+        "quantity": 1.0,
+        "unit": "Litre",
+        "category": "Dairy",
+        "activity": "Wasted",
+        "date": "2026-11-11"
+    },
+    {
+        "name": "curd",
+        "quantity": 0.5,
+        "unit": "g",
+        "category": "Dairy",
+        "activity": "Used",
+        "date": "2026-11-11"
+    },
+    {
+        "name": "Pulses",
+        "quantity": 0.1,
+        "unit": "kg",
+        "category": "Grains",
+        "activity": "Used",
+        "date": "2026-11-11"
+    },
+    {
+        "name": "potato",
+        "quantity": 1.0,
+        "unit": "kg",
+        "category": "Vegetables",
+        "activity": "Wasted",
+        "date": "2026-11-11"
+    },
+    {
+        "name": "Banana",
+        "quantity": 1.0,
+        "unit": "kg",
+        "category": "Fruits",
+        "activity": "Used",
+        "date": "2026-11-14"
+    },
+    {
+        "name": "apple",
+        "quantity": 1.0,
+        "unit": "kg",
+        "category": "Vegetables",
+        "activity": "Wasted",
+        "date": "2026-11-14"
+    }
+]

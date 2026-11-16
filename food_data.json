@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Pulses",
+        "quantity": 0.9,
+        "unit": "kg",
+        "category": "Grains",
+        "expiry_date": "2027-11-09"
+    },
+    {
+        "name": "potato",
+        "quantity": 5.5,
+        "unit": "kg",
+        "category": "Vegetables",
+        "expiry_date": "2026-11-11"
+    },
+    {
+        "name": "rice",
+        "quantity": 2.5,
+        "unit": "kg",
+        "category": "Grains",
+        "expiry_date": "2027-11-17"
+    },
+    {
+        "name": "apple",
+        "quantity": 4.0,
+        "unit": "kg",
+        "category": "Vegetables",
+        "expiry_date": "2026-11-14"
+    }
+]
